@@ -128,3 +128,11 @@ Compiled and maintained from upstream [furkanaskin/Weatherapp](https://github.co
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [furkanaskin/Weatherapp](https://github.com/furkanaskin/Weatherapp) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
